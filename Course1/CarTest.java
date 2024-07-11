@@ -1,3 +1,5 @@
+package Course1;
+
 public class CarTest {
     public static void main(String[] args) {
        String model = "BMW528i";

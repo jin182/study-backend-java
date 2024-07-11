@@ -1,3 +1,5 @@
+package Course1;
+
 public class CastingTest {
     public static void main(String[] args) {
        float f1 =.10f;

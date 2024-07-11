@@ -1,3 +1,5 @@
+package Course1;
+
 public class BinaryExam {
     public static void main(String[] args) {
         int decimal = 123;

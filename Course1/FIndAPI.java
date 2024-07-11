@@ -1,3 +1,5 @@
+package Course1;
+
 public class FIndAPI {
     public static void main(String[] args) {
         int a; //변수선언

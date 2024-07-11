@@ -1,3 +1,5 @@
+package Course1;
+
 public class Chartest {
     public static void main(String[] args) {
         char c = 'A';

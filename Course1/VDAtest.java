@@ -1,3 +1,5 @@
+package Course1;
+
 public class VDAtest {
     public static void main(String[] args) {
         int v; // 뱐수선언

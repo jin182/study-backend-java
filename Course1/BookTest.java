@@ -1,3 +1,5 @@
+package Course1;
+
 public class BookTest {
     public static void main(String[] args) {
         // Q. [정수] 한 개를 저장할 [변수를 선언]하시오.

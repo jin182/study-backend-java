@@ -1,3 +1,5 @@
+package Course1;
+
 public class CharExam {
     public static void main(String[] args) {
         // Q. ‘1’+’2’+’3’+’4’+’5’=15이 나오도록 프로그래밍 하시요
