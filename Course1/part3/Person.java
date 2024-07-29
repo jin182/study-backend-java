@@ -6,7 +6,9 @@ public class Person {
     public int age;
     public String phone;
     // 기본생성자메서드
+    public Person(){
 
+    }
     public void play(){
         System.out.println("운동을 한다.");
     }

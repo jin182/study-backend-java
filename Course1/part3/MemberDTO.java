@@ -6,5 +6,5 @@ public class MemberDTO {
     public String phone;
     public String email;
     public String addr;
-    public float weight;-
+    public float weight;
 }
