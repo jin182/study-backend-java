@@ -33,7 +33,7 @@ public class CarTest {
         System.out.print("자동차타입:"); // G(휘발유), D(경유)
         String carType=scan.nextLine();
 
-        CarDTO car = new CarDTO();`
+        CarDTO car = new CarDTO();
         car.carSn=carSn;
         car.carName=carName;
         car.carPrice=carPrice;
