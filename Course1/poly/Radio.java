@@ -1,4 +1,4 @@
-package poly;
+package Course1.poly;
 
 public class Radio implements RemoCon{
     // chUp(), chDown(), volUp(), VolDown()

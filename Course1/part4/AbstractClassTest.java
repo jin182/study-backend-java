@@ -1,6 +1,6 @@
 package Course1.part4;
 
-import poly.*;
+import Course1.poly.*;
 
 public class AbstractClassTest {
     public static void main(String[] args) {

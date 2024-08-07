@@ -1,6 +1,6 @@
 package Course1.part4;
 
-import poly.A;
+import Course1.poly.A;
 
 public class ObjectTest {
     public static void main(String[] args) {

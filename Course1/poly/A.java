@@ -1,4 +1,4 @@
-package poly;
+package Course1.poly;
 
 import java.lang.*;
 public class A extends Object{

@@ -1,6 +1,6 @@
 package Course1.part4;
 
-import poly.*;
+import Course1.poly.*;
 public class ObjectPolyArray {
     public static void main(String[] args) {
         //  A, B 클래스를 저장할 배열을 생성하세요.

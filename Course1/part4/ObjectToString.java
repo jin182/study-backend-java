@@ -1,6 +1,6 @@
 package Course1.part4;
 
-import poly.Board;
+import Course1.poly.Board;
 
 public class ObjectToString {
     public static void main(String[] args) {

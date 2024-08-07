@@ -1,4 +1,4 @@
-package poly;
+package Course1.poly;
 
 public class B {
     public void printGo(){

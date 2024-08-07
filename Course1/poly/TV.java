@@ -1,4 +1,4 @@
-package poly;
+package Course1.poly;
 
 public class TV implements RemoCon{
     // chUp(), chDown(), volUp(), VolDown()

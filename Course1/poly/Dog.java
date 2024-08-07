@@ -1,4 +1,4 @@
-package poly;
+package Course1.poly;
 
 public class Dog extends Animal { // Animal->eat(); 추상메서드
     // 재정의를 하지 안음(x) --->오류입니다(재정의를 하세요)

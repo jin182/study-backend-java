@@ -1,4 +1,4 @@
-package poly;
+package Course1.poly;
 
 public class Board extends Object{ // toString()
     private String title;
